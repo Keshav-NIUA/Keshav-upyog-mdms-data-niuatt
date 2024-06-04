@@ -729,6 +729,10 @@
         {
             "format": "PG-AST-[cy:yyyy-MM-dd]-[SEQ_EG_PTR_ID]",
             "idname": "egov.idgen.asset.applicationNum"
+        },
+        {
+            "format": "CH/CB/[CITY.CODE]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
+            "idname": "egov.idgen.comunityHallBooking.name"
         }
     ]
 }
